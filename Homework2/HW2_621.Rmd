@@ -24,7 +24,7 @@ require("pROC")
 ### 1. Download the classification output data set(attached in Blackboard to the assignment).
 
 ```{r}
-df <- read.csv(url('https://raw.githubusercontent.com/monuchacko/cuny_msds/master/data_621/Homework2/classification-output-data.csv'))
+df <- read.csv(url('https://raw.githubusercontent.com/theoracley/Data621/master/Homework2/classification-output-data.csv'))
 
 kable(head(df))
 ```
