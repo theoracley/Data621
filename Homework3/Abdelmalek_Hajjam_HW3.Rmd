@@ -638,3 +638,12 @@ In this section, we will provide a table in which the classification is reported
 evaluation_data$probability <- round(prob,3)
 evaluation_data[c('predicted','probability')]
 ```
+
+
+# APPENDIX
+
+Code and markdown are at:
+
+https://github.com/theoracley/Data621/blob/master/Homework3/Abdelmalek_Hajjam_HW3.Rmd
+
+
