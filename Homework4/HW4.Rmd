@@ -37,7 +37,7 @@ library(data.table)
 
 ```{r}
 # Read data
-train_df <- read.csv("https://raw.githubusercontent.com/monuchacko/cuny_msds/master/data_621/Homework4/insurance_training_data.csv", stringsAsFactors = FALSE)
+train_df <- read.csv("https://raw.githubusercontent.com/theoracley/Data621/master/Homework4/insurance_training_data.csv", stringsAsFactors = FALSE)
 
 dim(train_df)
 str(train_df)
